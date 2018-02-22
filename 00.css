@@ -1,16 +1,27 @@
-#logo {
-margin:50px auto;
-display:block;
- }
+* {box-sizing: border-box;}
+.clearfix {clear: both; }
 
 #header-wrapper {
     width: 80%;
     margin: 0 auto;
     border: thin solid black;
+
 }
 
+#logo {float: left; }
 #header-wrapper img {
     width: 100px;
+}
+
+#header-login img {
+    width: 40px;
+
+}
+
+#header-login {
+float: left;
+width: 10%;
+border: thin solid black;
 }
 
 #weather {
