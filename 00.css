@@ -1,26 +1,70 @@
 * {box-sizing: border-box;}
 .clearfix {clear: both; }
 
-#header-wrapper {
+#header-menu {
     width: 80%;
     margin: 0 auto;
     border: thin solid black;
-
 }
 
 #logo {float: left; }
-#header-wrapper img {
-    width: 100px;
+#header-menu img {
+    width: 120px;
 }
 
 #header-login img {
     width: 40px;
-
 }
 
 #header-login {
 float: left;
-width: 10%;
+border: thin solid black;
+}
+
+#username {
+float: right;
+padding: 15px;
+}
+
+#news {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#sport {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#Weather2 {
+float: left;
+width: 95px;
+padding: 15px;
+border: thin solid black;
+}
+
+#shop {
+float: left;
+width: 70px;
+padding: 15px;
+border: thin solid black;
+}
+
+#earth {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#travel {
+float: left;
+width: 80px;
+padding: 15px;
 border: thin solid black;
 }
 
