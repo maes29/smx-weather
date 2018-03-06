@@ -68,6 +68,33 @@ padding: 15px;
 border: thin solid black;
 }
 
+#More {
+float: left;
+width: 80px;
+padding: 15px;
+border: thin solid black;
+}
+
+#search {
+float: left;
+padding: 15px;
+}
+
+#search-input { border: thin solid black; background-color: lightgray; padding: 5px;}
+#search-button { color: white; background-color: black;padding: 5px;}
+
+#search-city {
+float: left;
+padding: 15px;
+}
+
+#weather-search {
+  display: block;
+  background-color: DodgerBlue;
+  padding: 5px;
+  font-size: 10px;
+}
+
 #weather {
   display: block;
   background-color: DodgerBlue;
