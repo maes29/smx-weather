@@ -81,3 +81,13 @@ border: thin solid black;
  padding: 50px;
  font-size: 50px;
 }
+
+#america {
+  font-size: 100%
+}
+
+#features {
+  font-size: 100%
+}
+
+.features-column { width: 20%; float: left; }
