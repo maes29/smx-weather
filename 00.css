@@ -118,3 +118,10 @@ padding: 15px;
 }
 
 .features-column { width: 20%; float: left; }
+
+#explore {
+ display: block;
+ background-color: gray;
+
+}
+.explore-column { widht:20%; float: left;}
