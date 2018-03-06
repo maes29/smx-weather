@@ -1,11 +1,71 @@
-#header-wrapper {
+* {box-sizing: border-box;}
+.clearfix {clear: both; }
+
+#header-menu {
     width: 80%;
     margin: 0 auto;
     border: thin solid black;
 }
 
-#header-wrapper img {
-    width: 100px;
+#logo {float: left; }
+#header-menu img {
+    width: 120px;
+}
+
+#header-login img {
+    width: 40px;
+}
+
+#header-login {
+float: left;
+border: thin solid black;
+}
+
+#username {
+float: right;
+padding: 15px;
+}
+
+#news {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#sport {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#Weather2 {
+float: left;
+width: 95px;
+padding: 15px;
+border: thin solid black;
+}
+
+#shop {
+float: left;
+width: 70px;
+padding: 15px;
+border: thin solid black;
+}
+
+#earth {
+float: left;
+width: 75px;
+padding: 15px;
+border: thin solid black;
+}
+
+#travel {
+float: left;
+width: 80px;
+padding: 15px;
+border: thin solid black;
 }
 
 #weather {
@@ -29,3 +89,5 @@
 #features {
   font-size: 100%
 }
+
+.features-column { width: 20%; float: left; }
