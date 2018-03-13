@@ -147,15 +147,10 @@
   float: left;
 }
 
-#explore {
-  display: block;
-  background-color: gray;
+hr {
+  background-color: black;
 }
 
-.explore-column {
-  widht: 20%;
-  float: left;
-}
 
 #container {
   font-size: 100%;
@@ -163,15 +158,4 @@
 }
 
 #container h2 { padding: 10px; margin: 0; }
-.container-column { width: 15%; float: left; background-color: gray; padding: 20px}
-
-#explore {
-  display: block;
-  background-color: gray;
-}
-
-.explore-column {
-  widht: 20%;
-  float: left;
-}
-
+.container-column { width: 15%; float: left; background-color: gray;padding: 10px}
