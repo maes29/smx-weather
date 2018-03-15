@@ -148,15 +148,11 @@
 }
 
 
-#moreweather h2 { width: 75%; }
-#moreweather h5 { text-align: 75%; align-items: center;}
-
-hr {
-  background-color: gray;
-  width: 75%;
-  align: center;
-
 }
+
+#moreweather h2 {padding: 10px; margin: 0; }
+.moreweather-row { border-top: thin solid black;}
+.moreweather-column { width: 25%; float: left; padding: 2px}
 
 #container {
   font-size: 100%;
