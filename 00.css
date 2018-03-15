@@ -147,10 +147,16 @@
   float: left;
 }
 
-hr {
-  background-color: black;
-}
 
+#moreweather h2 { width: 75%; }
+#moreweather h5 { text-align: 75%; align-items: center;}
+
+hr {
+  background-color: gray;
+  width: 75%;
+  align: center;
+
+}
 
 #container {
   font-size: 100%;
